@@ -1,0 +1,8 @@
+{
+  "x-comment": "FirstName adalah nama depan customer", 
+  "FirstName": "Aidil",
+  "x-comment": "MiddleName adalah nama tengah customer",
+  "MiddleName": "Adam",
+  "x-comment": "LastName adalah nama belakang customer",
+  "LastName": "BaikHati"
+}
